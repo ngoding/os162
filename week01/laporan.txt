@@ -1,0 +1,9 @@
+Week01 Reports
+
+So far, there is only one task. But this task is more complicated than last week
+
+So the first 32 objective is about learning how to use git, badak, and editor.
+So I learned much from this task.
+
+I think it is very interesting to use UNIX and Git because we only have to use
+the keyboard to do everything. So cool.
