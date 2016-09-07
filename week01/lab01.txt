@@ -17,3 +17,4 @@ drwxr-xr-x  2 risyad.ridho StafCS 4096 Sep  7 11:13 week08
 drwxr-xr-x  2 risyad.ridho StafCS 4096 Sep  7 11:13 week09
 drwxr-xr-x  2 risyad.ridho StafCS 4096 Sep  7 11:13 week10
 /home/fasilkom/mahasiswa/r/risyad.ridho/os162/week01
+Today is 07 Sep 2016 at 13:01:41
