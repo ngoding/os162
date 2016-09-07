@@ -1,0 +1,15 @@
+Week00 Reports
+
+There are two tasks on the first week.
+
+The first task was to reply the forum message to proof my presence.
+So I reply the forum by saying Hello and introduce myself.
+
+The second task requires more effort. These are the things that I did:
+	1. Google account, I had a google account, so I skip this step.
+	2. GitHub account, I also had an account, so I skip this step.
+	3. I create a public repository with the name "os162"
+	4. I logged in to my google account to fill a form
+	5. Then I have to wait 24 hours to check my status as registered
+
+That is what I did last week.
