@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 risyad.ridho StafCS 4096 Sep  7 11:44 .
+drwx--x--x  4 risyad.ridho StafCS 4096 Sep  7 11:42 ..
+drwxr-xr-x  8 risyad.ridho StafCS 4096 Sep  7 11:42 .git
+-rw-r--r--  1 risyad.ridho StafCS    7 Sep  7 11:05 README.md
+drwxr-xr-x  2 risyad.ridho StafCS 4096 Sep  7 11:19 SandBox
+-rw-r--r--  1 risyad.ridho StafCS    0 Sep  7 11:44 lab01.txt
+drwxr-xr-x  2 risyad.ridho StafCS 4096 Sep  7 11:42 week00
+drwxr-xr-x  2 risyad.ridho StafCS 4096 Sep  7 11:12 week01
+drwxr-xr-x  2 risyad.ridho StafCS 4096 Sep  7 11:12 week02
+drwxr-xr-x  2 risyad.ridho StafCS 4096 Sep  7 11:12 week03
+drwxr-xr-x  2 risyad.ridho StafCS 4096 Sep  7 11:12 week04
+drwxr-xr-x  2 risyad.ridho StafCS 4096 Sep  7 11:12 week05
+drwxr-xr-x  2 risyad.ridho StafCS 4096 Sep  7 11:12 week06
+drwxr-xr-x  2 risyad.ridho StafCS 4096 Sep  7 11:13 week07
+drwxr-xr-x  2 risyad.ridho StafCS 4096 Sep  7 11:13 week08
+drwxr-xr-x  2 risyad.ridho StafCS 4096 Sep  7 11:13 week09
+drwxr-xr-x  2 risyad.ridho StafCS 4096 Sep  7 11:13 week10
+/home/fasilkom/mahasiswa/r/risyad.ridho/os162/week01
