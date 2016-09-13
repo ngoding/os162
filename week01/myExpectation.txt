@@ -1,4 +1,3 @@
-#Risyad Ridho Hasbullah
-#class INTL162
+#ngoding
 
 My expectation is that I can build a great software!
